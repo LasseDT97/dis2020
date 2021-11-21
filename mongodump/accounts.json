@@ -1,0 +1,16 @@
+{"_id":{"$oid":"5fca51cbfecc4b2ac75ad336"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":1000,"alias":"Lønkonto","__v":0}
+{"_id":{"$oid":"5fcb8230b346e9389c1d8e43"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":1000,"alias":"Salary","__v":0}
+{"_id":{"$oid":"5fcb8252b346e9389c1d8e44"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":500,"alias":"Opsparing","__v":0}
+{"_id":{"$oid":"5fcb8260b346e9389c1d8e45"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":500,"alias":"Forbrug","__v":0}
+{"_id":{"$oid":"5fcb92e69966fe41a8e22d99"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":0,"alias":"Ny konto","__v":0}
+{"_id":{"$oid":"5fcc038e224eac4fde0cb7ea"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":19503,"alias":"TEST account 7","__v":0}
+{"_id":{"$oid":"5fcc03b7bda8fb500ea3587d"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":7626,"alias":"TEST account 6","__v":0}
+{"_id":{"$oid":"5fcc041955eb2c50447da4da"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":35029,"alias":"TEST account 1","__v":0}
+{"_id":{"$oid":"5fcc0460399305504c146d39"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":57725,"alias":"TEST account 4","__v":0}
+{"_id":{"$oid":"5fcc053bb253be50aa82dfb7"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":47946,"alias":"TEST account 5","__v":0}
+{"_id":{"$oid":"5fcccab7cb845850a642d355"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":20357,"alias":"TEST account 4","__v":0}
+{"_id":{"$oid":"5fcd41221c413756e6984cc6"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":1500,"alias":"Other expenses","__v":0}
+{"_id":{"$oid":"5fcd41e11c413756e6984cc7"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":1500,"alias":"Other expenses","__v":0}
+{"_id":{"$oid":"5fcd5146f4aca858c7c6b4b5"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":53486,"alias":"TEST account 2","__v":0}
+{"_id":{"$oid":"5fcd522f5437b258c621eb6a"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":1500,"alias":"Other expenses","__v":0}
+{"_id":{"$oid":"5fcd525cf5dcde58f910e046"},"client_id":"5fcb9e4884f09242fa1f3f33","balance":83368,"alias":"TEST account 6","__v":0}
